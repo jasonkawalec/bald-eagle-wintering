@@ -2,7 +2,7 @@
 
 *Created by Jason Kawalec for the Spring 2024 semester of Command-Line GIS at the Edward J. Bloustein School of Planning and Public Policy of Rutgers University.*
 
-New Jersey is home to a small population of perennial nesting bald eagles. As the cold winter months set in, bald eagles migrate south from northern North America to NJ in search of food sources. This is known as **bald eagle wintering**. I was interested in researching how the spatial distribution of bald eagle wintering in NJ could be visualized through reports from [eBird](https://ebird.org/about), an online platform and global citizen science project managed by the Cornell Lab of Ornithology in collaboration with the National Audubon Society. On eBird, birdwatchers record their bird observations on checklists and contribute data to a centralized database. 
+As the cold winter months set in, bald eagles migrate south from northern North America to NJ in search of food sources. This is known as **bald eagle wintering**. I was interested in researching how the spatial distribution of bald eagle wintering in NJ could be visualized through reports from [eBird](https://ebird.org/about), an online platform and global citizen science project managed by the Cornell Lab of Ornithology in collaboration with the National Audubon Society. On eBird, birdwatchers record their bird observations on checklists and contribute data to a centralized database. 
 
 This project uses four total months—December 2022 to January 2023 and June to July 2023—of verified bald eagle observations and eBird checklists provided by the Cornell Lab of Ornithology as .txt files via the eBird Basic Dataset (EBD). Only one checklist was preserved per group checklist. 
 
