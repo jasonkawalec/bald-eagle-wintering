@@ -6,7 +6,7 @@ While New Jersey is home to a small population of bald eagles that nest year-rou
 
 This project uses four months—December 2022 to January 2023 and June to July 2023—of verified bald eagle observations and eBird checklists provided by the Cornell Lab of Ornithology as text files via the eBird Basic Dataset. Only one checklist was preserved per group checklist. 
 
-Bald eagle observations represent only the **presence** of bald eagles. Therefore, to also represent the **absence** of bald eagles, all NJ checklists that excluded bald eagle observations were joined with bald eagle observations. Following a spatial join of presence-absence checklists with 5 kilometer x 5 kilometer grid cells and New Jersey's level III ecoregions, the frequency of bald eagle observations per eBird checklist can be represented at these scales. These could be considered a proxy for bald eagle species abundance during summer and winter in NJ. 
+Bald eagle observations represent only the **presence of bald eagles**. Therefore, to also represent the **absence of bald eagles**, all NJ checklists that excluded bald eagle observations were joined with bald eagle observations. Then, following a spatial join of presence-absence checklists with 5 kilometer x 5 kilometer grid cells and New Jersey's level III ecoregions, the frequency of bald eagle observations per eBird checklist can be represented at these scales. These could be considered a proxy for bald eagle species abundance during winter 2022-2023 and summer 2023 in NJ. 
 
 ## Frequency of Bald Eagle Reports on eBird in Winter 2022-2023 and Summer 2023
 
