@@ -1,6 +1,6 @@
 # Bald Eagle Wintering in New Jersey
 
-*Created by Jason Kawalec for the Spring 2024 semester of Command-Line GIS at the Edward J. Bloustein School of Planning and Public Policy of Rutgers University.*
+*Created by Jason Kawalec for the Spring 2024 semester of Command-Line GIS at the Edward J. Bloustein School of Planning and Public Policy, Rutgers University.*
 
 As the cold winter months set in, bald eagles migrate south from northern North America to NJ in search of food sources. This is known as **bald eagle wintering**. I was interested in researching how the spatial distribution of bald eagle wintering in NJ could be visualized through reports from [eBird](https://ebird.org/about), an online platform and global citizen science project managed by the Cornell Lab of Ornithology in collaboration with the National Audubon Society. On eBird, birdwatchers record their bird observations on checklists and contribute data to a centralized database. 
 
