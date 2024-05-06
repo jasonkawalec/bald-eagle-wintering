@@ -21,3 +21,5 @@ The interactive map presents a heat map time lapse of bald eagle observations pe
 <iframe src="bald_eagle_wintering_nj.html" height="855" width="95%"></iframe>
 
 You can explore this map [as its own web page here.](bald_eagle_wintering_nj.html)
+
+eBird Basic Dataset. Version: EBD_relMar-2024. Cornell Lab of Ornithology, Ithaca, New York. Mar 2024.
