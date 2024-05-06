@@ -10,6 +10,8 @@ Bald eagle observations represent only the **presence** of bald eagles. Therefor
 
 ## Frequency of Bald Eagle Reports on eBird in Winter 2022-2023 and Summer 2023
 
+In the following two maps, a frequency value of **0** indicates that no bald eagles were reported in all eBird checklists within the 5km x 5km cell while a frequency value of **1** indicates that at least one bald eagle was observed in all eBird checklists within the cell. All No Data cells indicate that there were no eBird checklists recorded in the cell.
+
 ![Bald Eagle Frequency Maps](frequency_raster_bald_eagle_maps.png)
 
 ## Interactive Map of Bald Eagle Observations Over Time
