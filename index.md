@@ -16,7 +16,7 @@ In the following two maps, a **frequency value of 0** indicates that no bald eag
 
 ## Interactive Map of Bald Eagle Observations Over Time
 
-The interactive map presents a time lapse of bald eagle observations per day for both the winter and summer months. The observation frequency of bald eagles per level III ecoregion in NJ [(provided as a shapefile by the Environmental Protection Agency)](http://ecologicalregions.info/htm/nj_eco.htm) can be enabled. The ten localities containing the ten highest counts of bald eagle sightings are displayed for context. 
+The interactive map presents a heat map time lapse of bald eagle observations per day for both the winter and summer months. The observation frequency of bald eagles per level III ecoregion in NJ [(provided as a shapefile by the Environmental Protection Agency)](http://ecologicalregions.info/htm/nj_eco.htm) can be enabled. The ten localities containing the ten highest counts of bald eagle sightings are displayed for context. 
 
 <iframe src="bald_eagle_wintering_nj.html" height="855" width="95%"></iframe>
 
