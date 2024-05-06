@@ -24,4 +24,4 @@ Use the **Layer Control overlay in the top right of the map below** to toggle be
 
 You can explore this map [as its own web page here.](bald_eagle_wintering_nj.html)
 
-eBird Basic Dataset. Version: EBD_relMar-2024. Cornell Lab of Ornithology, Ithaca, New York. Mar 2024.
+**Data Source:** eBird Basic Dataset. Version: EBD_relMar-2024. Cornell Lab of Ornithology, Ithaca, New York. Mar 2024.
